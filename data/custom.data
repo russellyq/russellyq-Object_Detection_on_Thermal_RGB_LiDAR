@@ -1,0 +1,6 @@
+classes=18
+train=training_img_paths.txt
+valid=training_img_paths.txt
+names=/home/yq-robot/github_ws/Object_Detection_on_Thermal_Images/data/custom.names
+backup=backup/
+eval=coco

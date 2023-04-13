@@ -1,0 +1,6 @@
+classes=80
+train=../coco/trainvalno5k.txt
+valid=../coco/5k.txt
+names=/home/yq-robot/github_ws/Object_Detection_on_Thermal_Images/data/coco.names
+backup=backup/
+eval=coco
